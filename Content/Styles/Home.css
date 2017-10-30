@@ -1,0 +1,7 @@
+/* h2#blue{
+    color:blue;
+} */
+
+section + h2{
+    color: red;
+}

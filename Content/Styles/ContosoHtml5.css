@@ -1,0 +1,14 @@
+body{
+    font: bolder 10pt/1.5 "Roboto", "Arial"; 
+    color: black;
+    text-align: justify;
+    background-image: url("../Images/descarga.png");
+    background-size: 40px 60px;
+    background-position: 100% 100%;
+    background-repeat: repeat;
+}
+
+.contosoLogo{
+    width: 100pt;
+    height: 100pt;
+}

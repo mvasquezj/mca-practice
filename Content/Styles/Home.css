@@ -2,6 +2,10 @@
     color:blue;
 } */
 
-section + h2{
-    color: red;
+/* input[name="test"]{
+    background: red;
+} */
+
+input[name|="en"]{
+    background: blue;
 }

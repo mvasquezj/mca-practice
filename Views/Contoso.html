@@ -15,7 +15,7 @@
     <p>If you would like to contact Contoso Conferencing, wheter you're interested in our services in a conference we're currently organising,
         don't hesitate to contact us using our enquiry form (<strong>Bold fields</strong> are required). 
     </p>
-    <form method="POST" action="#">
+    <form method="POST" action="#" id="contosoForm">
         <fieldset>
             <legend>Your Details and Enquiry</legend>
             <ol>
@@ -45,8 +45,13 @@
                 </li>
             </ol>
         </fieldset>
-        <input type="submit" value="Send"/>
+        <input type="submit" value="Send"/> 
+        <button type="button" id="btnAddElementList">Agregar Elementos a la Lista</button>
+        <button type="button" id="btnRemoveFirstElement">Eliminar Primer Elemento</button>
     </form>
+    <ul id="elementList">
+
+    </ul>
     <script src="../Scripts/Contoso.js" type="text/javascript"></script>
 </body>
 </html>

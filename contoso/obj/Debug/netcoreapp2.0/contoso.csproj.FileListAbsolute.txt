@@ -1,0 +1,10 @@
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/bin/Debug/netcoreapp2.0/contoso.deps.json
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/bin/Debug/netcoreapp2.0/contoso.runtimeconfig.json
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/bin/Debug/netcoreapp2.0/contoso.runtimeconfig.dev.json
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/bin/Debug/netcoreapp2.0/contoso.dll
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/bin/Debug/netcoreapp2.0/contoso.pdb
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/obj/Debug/netcoreapp2.0/contoso.csproj.CoreCompileInputs.cache
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/obj/Debug/netcoreapp2.0/contoso.AssemblyInfoInputs.cache
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/obj/Debug/netcoreapp2.0/contoso.AssemblyInfo.cs
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/obj/Debug/netcoreapp2.0/contoso.dll
+/Users/MVASQUEZ/Documents/home/proyects/repository/practice/mca-practice/contoso/obj/Debug/netcoreapp2.0/contoso.pdb

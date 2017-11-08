@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+<button type="button" id="btnSendRequest">Enviar Petición</button>
+<button type="button" id="btnSendData">Enviar Data</button>
+<script type="text/javascript">
+    document.getElementById('btnSendRequest').onclick = function(){
+        getAllPerson();
+    };
+    document.getElementById('btnSendData').onclick = function(){
+        addPerson();
+    };
+</script>

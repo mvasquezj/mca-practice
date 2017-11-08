@@ -1,0 +1,15 @@
+input{
+    border: solid 1px #888;
+}
+
+input:required{
+    border-color: #8a0;
+}
+
+input:valid{
+    border-color: #0f0;
+}
+
+input:invalid{
+    border-color: #f00;
+}
